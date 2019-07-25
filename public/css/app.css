@@ -8404,6 +8404,14 @@ p {
   color: #fff;
 }
 
+#logout {
+  cursor: default;
+}
+
+#logout:hover {
+  background-color: transparent;
+}
+
 /* footer */
 
 footer {
@@ -8483,7 +8491,6 @@ section.user_info h1 {
 
 .gravatar {
   float: left;
-  margin-right: 10px;
   max-width: 50px;
   border-radius: 50%;
 }
