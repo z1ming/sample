@@ -3,7 +3,7 @@
     <small class="slogon">
       <img class="brand-icon" src="https://cdn.learnku.com/uploads/images/201612/12/1/iq7WQc2iuW.png?imageView2/1/w/34/h/34" />
     <a href="#">
-      你不要担心
+      忧伤的嫖客
     </a>
     </small>
     <nav>

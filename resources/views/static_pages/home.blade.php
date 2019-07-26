@@ -2,7 +2,8 @@
 
 @section('content')
   <div class="jumbotron">
-    <h1>既没有网在四方 就恨没勇气闯闯</h1>
+    <h3>一切苦乐最终都一样</h3>
+    <h3>只为旅途增添花样</h3>
     <p class="lead">
        你现在所看到的是 <a href="http://boiling-eyrie-30354.herokuapp.com/">Laravel<a/>
     的示例项目主页。
